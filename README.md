@@ -1,4 +1,4 @@
-#### Fourier Transform Image Mixer Documentation
+# Fourier Transform Image Mixer Documentation
 
 ## Overview
 
